@@ -1,0 +1,8 @@
+.myBtn {
+    color: rgb(18, 17, 17);
+    border-radius: 2em;
+    height: 3em;
+    width: 6em;
+    border: solid #3b3b88;
+    background-color: white;
+}
